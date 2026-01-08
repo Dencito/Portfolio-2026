@@ -16,7 +16,7 @@ const Projects = () => {
                 {projects.map((project, index) => (
                     <div className="w-full bg-[#222222] rounded-lg " key={index}>
                         <div className="text-white flex flex-col p-3 rounded-lg shadow-lg overflow-hidden">
-                            <img alt={project.title} src={project.img} className="rounded-t-lg h-56 w-full object-cover" />
+                            {/* <img alt={project.title} src={project.img} className="rounded-t-lg h-56 w-full object-cover" /> */}
                             <h4 className="text-lg text-[#ff4191] mb-2 mt-3 font-bold">{project.title}</h4>
                             <p className="block mb-2 text-base">{project.description}</p>
                             <div className="flex flex-wrap mt-2">

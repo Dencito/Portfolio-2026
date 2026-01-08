@@ -6,9 +6,25 @@ const { Title, Text } = Typography;
 
 const experiences = [
   {
+    "company": <Title style={{ color: '#fff' }} level={4}>DImpulso<span style={{ color: '#ff4191' }}>X</span></Title>,
+    "role": "Full Stack Developer / Web Design",
+    "date": "Nov. 2024 - Actualidad",
+    "description": [
+      "Participé en el desarrollo de una plataforma e-commerce, con foco en el backend: diseño de API RESTful, modelado de base de datos y pruebas unitarias.",
+      "Colaboré en tareas del frontend, aportando en la integración y desarrollo de componentes clave.",
+      "Creación de tiendas online, blogs, landing pages y sitios corporativos (WordPress Elementor PRO, Bricks).",
+      "Mantenimiento y soporte técnico personalizado.",
+      "Desarrollo de soluciones digitales a medida, incluyendo aplicaciones web, móviles y de escritorio tales como e-commerces, sistemas CRM, paneles administrativos y dispositivos interactivos (tótems).",
+      "Responsable del desarrollo y mantenimiento de aplicaciones web, móviles (Android/iOS), dashboards y software de escritorio, incorporando nuevas funcionalidades y brindando soporte continuo.",
+      "Diseño y desarrollo de sitios web institucionales y landing pages con WordPress (Elementor PRO, Bricks).",
+      "Creación y mantenimiento de tiendas online.",
+      "Gestión de servicios y recursos en la nube (DigitalOcean, AWS)."
+    ]
+  },
+  {
     "company": <Title style={{ color: '#fff' }} level={4}>EMPREBIT</Title>,
     "role": "Freelance Web Designer and Developer",
-    "date": "Febrero 2023 - Actualidad",
+    "date": "Febrero 2023 - Nov. 2024",
     "description": [
       "Diseño web completo utilizando WordPress con Elementor PRO y Bricks Builder.",
       "Creación de tiendas en línea para clientes, optimizando la conversión y el SEO.",

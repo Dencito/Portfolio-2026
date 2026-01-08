@@ -1,7 +1,71 @@
 [
     {
+        "title": "FitTrack AI",
+        "description": "Aplicación móvil de fitness que genera rutinas personalizadas y seguimiento nutricional.",
+        "technologies": [
+            "React Native",
+            "Node.js",
+            "PostgreSQL",
+            "Firebase"
+        ],
+        "img": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800"
+    },
+    {
+        "title": "EduLearn Platform",
+        "description": "Plataforma educativa con sistema de videoconferencias, evaluaciones automáticas y gamificación para instituciones educativas.",
+        "technologies": [
+            "Vue.js",
+            "Laravel",
+            "WebRTC",
+            "Redis",
+            "MySQL",
+            "AWS S3"
+        ],
+        "img": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800"
+    },
+    {
+        "title": "TaskFlow CRM",
+        "description": "Sistema CRM completo con gestión de clientes, pipeline de ventas, automatización de emails y reportes analíticos avanzados.",
+        "technologies": [
+            "Angular",
+            "NestJS",
+            "PostgreSQL",
+            "TypeORM",
+            "Bull Queue",
+            "Elasticsearch"
+        ],
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+    },
+    {
+        "title": "MediCare Appointments",
+        "description": "Sistema de gestión de citas médicas con telemedicina, historial clínico digital y recordatorios automáticos por SMS/Email.",
+        "technologies": [
+            "Next.js",
+            "NestJS",
+            "MySQL",
+            "Twilio",
+            "Zoom SDK",
+            "AWS"
+        ],
+        "img": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+    },
+    {
+        "title": "OrderSync Restaurant",
+        "description": "Sistema integral de gestión de pedidos para restaurantes con app móvil para meseros que toman órdenes en tiempo real y dashboard web para cajeros y cocina. Los pedidos se sincronizan instantáneamente permitiendo que la cajera visualice las comandas, gestione pagos y envíe órdenes a cocina de manera eficiente.",
+        "technologies": [
+            "React Native",
+            "React js",
+            "Node.js",
+            "Socket.io",
+            "MongoDB",
+            "Redis",
+            "NestJS"
+        ],
+        "img": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800"
+    },
+    {
         "title": "Sistema de bonos",
-        "description": "Desarrollo de aplicación para la gestión de bonos, sucursales, usuarios. Trabajo realizado para empresa de Chile.",
+        "description": "Plataforma web completa para la gestión y administración de bonos de consumo para empresa chilena. Sistema multi-sucursal con roles de usuario (administrador, supervisor, cajero), control de stock de bonos, generación de reportes detallados, historial de transacciones, y dashboard analítico con métricas en tiempo real. Incluye sistema de autenticación seguro, gestión de permisos por rol y módulo de auditoría completo.",
         "technologies": [
             "React js",
             "TypeScript",
